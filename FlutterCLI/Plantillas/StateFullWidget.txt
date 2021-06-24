@@ -1,0 +1,15 @@
+import 'package:flutter/material.dart';
+
+class ReemplazarNombre extends StatefulWidget {
+  const ReemplazarNombre({Key? key}) : super(key: key);
+
+  @override
+  _ReemplazarNombreState createState() => _ReemplazarNombreState();
+}
+
+class _ReemplazarNombreState extends State<ReemplazarNombre> {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold();
+  }
+}
