@@ -52,6 +52,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Content Include="Plantillas\StateLessWidget.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Plantillas\StateFullWidget.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
